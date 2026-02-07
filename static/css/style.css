@@ -185,11 +185,7 @@ textarea {
     margin:0;
 }
 #logo {
-    /**
-    font:bold 42px/1.12 "Times New Roman", Georgia, Times, sans-serif;
-    **/
-    font-size: 37.5px;
-    font-weight: bold;
+    font: bold 37.5px/1.12 "Times New Roman", Georgia, Times, serif;
     color:#555;
 }
 #logo span {
